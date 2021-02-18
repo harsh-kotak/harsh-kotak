@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Harsh
 
 <!--
 **harsh-kotak/harsh-kotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
