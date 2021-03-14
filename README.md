@@ -10,6 +10,13 @@ and the situation at hand.
 
 TL;DR Just be nice.
 
+### 🛠 &nbsp;Tech Stack
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
