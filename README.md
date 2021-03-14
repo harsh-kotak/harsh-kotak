@@ -1,8 +1,5 @@
 ### Hi there 👋 I am Harsh
 
-<!--
-**harsh-kotak/harsh-kotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Regardless of what we discover,
 we understand and truly believe that
 everyone did the best job they could,
@@ -12,6 +9,9 @@ the resources available,
 and the situation at hand.
 
 TL;DR Just be nice.
+<!--
+**harsh-kotak/harsh-kotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
