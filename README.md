@@ -12,18 +12,17 @@ TL;DR Just be nice.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-kotak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harsh's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kotak&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/harsh-kotak/github-readme-stats)
+<p align="center">
+<a href="https://github.com/harsh-kotak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harsh-kotak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harsh-kotak&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.ikotak.com"><img src="https://img.shields.io/badge/-ikotak.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.ikotak.com"><img src="https://img.shields.io/badge/-iKotak.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/harshkotak"><img src="https://img.shields.io/badge/-HarshKotak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:harsh.kotak9@gmail.com"><img src="https://img.shields.io/badge/-harsh.kotak9-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/hrkotak"><img src="https://img.shields.io/badge/-hrkotak_-0D95E8?style=flat&logo=Twitter&logoColor=white"/></a>
@@ -34,6 +33,9 @@ TL;DR Just be nice.
 <!--
 **harsh-kotak/harsh-kotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-kotak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harsh's Github Stats">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kotak&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/harsh-kotak/github-readme-stats)
 
 Here are some ideas to get you started:
 
