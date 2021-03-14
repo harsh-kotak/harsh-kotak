@@ -26,8 +26,8 @@ TL;DR Just be nice.
 <a href="https://www.ikotak.com"><img src="https://img.shields.io/badge/-ikotak.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/harshkotak"><img src="https://img.shields.io/badge/-Harsh%20Kotak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:harsh.kotak9@gmail.com"><img src="https://img.shields.io/badge/-harsh.kotak9-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/hrkotak"><img src="https://img.shields.io/badge/-hrkotak__-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
-<a href="https://instagram.com/hrkotak"><img src="https://img.shields.io/badge/-hrkotak__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/hrkotak"><img src="https://img.shields.io/badge/-hrkotak_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://instagram.com/hrkotak"><img src="https://img.shields.io/badge/-hrkotak_-0D95E8?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/harsh.kotak9"><img src="https://img.shields.io/badge/-@harsh.kotak9-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
