@@ -19,7 +19,7 @@ TL;DR Just be nice.
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=111&logoColor=AAA&style=flat-square)
 ![ansible](https://img.shields.io/static/v1?logo=ansible&label=&message=ansible&color=111&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
+![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 
 ### ⚙️ &nbsp;GitHub Analytics
