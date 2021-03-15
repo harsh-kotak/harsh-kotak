@@ -14,7 +14,7 @@ TL;DR Just be nice.
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
 ![openstack](https://img.shields.io/static/v1?logo=openstack&label=&message=openstack&color=111&logoColor=AAA&style=flat-square)
-![vmware](https://img.shields.io/static/v1?logo=vsphere&label=&message=vmware&color=111&logoColor=AAA&style=flat-square)
+![vmware](https://img.shields.io/static/v1?logo=vmware&label=&message=vmware&color=111&logoColor=AAA&style=flat-square)
 ![aws](https://img.shields.io/static/v1?logo=amazon&label=&message=aws&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=111&logoColor=AAA&style=flat-square)
@@ -44,10 +44,6 @@ TL;DR Just be nice.
 
 <!--
 **harsh-kotak/harsh-kotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-kotak&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Harsh's Github Stats">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-kotak&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/harsh-kotak/github-readme-stats)
 
 Here are some ideas to get you started:
 
