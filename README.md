@@ -21,6 +21,7 @@ TL;DR Just be nice.
 ![ansible](https://img.shields.io/static/v1?logo=ansible&label=&message=ansible&color=111&logoColor=AAA&style=flat-square)
 ![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+![network](https://img.shields.io/static/v1?logo=cisco&label=&message=network&color=111&logoColor=AAA&style=flat-square)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
