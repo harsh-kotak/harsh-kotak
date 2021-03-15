@@ -13,9 +13,12 @@ TL;DR Just be nice.
 ### 🛠 &nbsp;Tech Stack
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
+![openstack](https://img.shields.io/static/v1?logo=openstack&label=&message=openstack&color=111&logoColor=AAA&style=flat-square)
+![vmware](https://img.shields.io/static/v1?logo=vmware&label=&message=vmware&color=111&logoColor=AAA&style=flat-square)
+![vmware](https://img.shields.io/static/v1?logo=aws&label=&message=aws&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
-![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
-![ansible](https://img.shields.io/static/v1?logo=ansible&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
+![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=111&logoColor=AAA&style=flat-square)
+![ansible](https://img.shields.io/static/v1?logo=ansible&label=&message=ansible&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 
